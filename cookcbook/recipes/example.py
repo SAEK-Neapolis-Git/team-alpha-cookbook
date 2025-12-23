@@ -1,4 +1,5 @@
-def recipe():
-    return "This is an example recipe."
+# This file is not executed.
+# It exists only for Git practice.
 
-__all__ = ["Example Recipe"]
+def recipe():
+    return “My recipe text…”
