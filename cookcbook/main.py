@@ -1,6 +1,7 @@
-from recipes import *
+recipes = [
+    # Add your name here
+]
 
-print("Welcome to the Team Cookbook!")
 print("Loaded recipes:")
-for recipe in __all__:
+for recipe in recipes:
     print("-", recipe)
