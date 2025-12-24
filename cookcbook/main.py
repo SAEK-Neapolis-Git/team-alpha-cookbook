@@ -1,5 +1,5 @@
 recipes = [
-    # Add your name here
+    # Add your name and recipe here
 ]
 
 print("Loaded recipes:")
